@@ -1,0 +1,1 @@
+http://teamtreehouse.com/library/interactive-web-pages-with-javascript/javascript-and-the-dom/what-is-an-object
